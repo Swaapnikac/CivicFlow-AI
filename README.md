@@ -75,7 +75,6 @@ All outputs are synthetic but structured identically to a real civic workflow.
 
 **Swaapnika Chowdary Cherukuru**  
 Master of Science | Northeastern University  
-cherukuru.sw@northeastern.edu
-swaapnic@gmail.com
-https://www.linkedin.com/in/swaapnika-cherukuru-926990228/
+cherukuru.sw@northeastern.edu | swaapnic@gmail.com
+| https://www.linkedin.com/in/swaapnika-cherukuru-926990228/
 

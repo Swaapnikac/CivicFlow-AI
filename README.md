@@ -12,7 +12,7 @@ The project operationalizes the four-layer framework described in my Candidate P
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 ### Problem
 City governments often handle thousands of unstructured public records requests via email or web forms. Staff must manually read, classify, and route these requests — leading to delays, backlogs, and inconsistent service.
@@ -26,7 +26,7 @@ City governments often handle thousands of unstructured public records requests 
 
 ---
 
-## 🧩 Prototype Features
+## Prototype Features
 
 | Layer | Functionality | Implementation |
 |-------|----------------|----------------|
@@ -37,7 +37,7 @@ City governments often handle thousands of unstructured public records requests 
 
 ---
 
-## 📊 Results (Demo Metrics)
+## Results (Demo Metrics)
 
 | Metric | Result |
 |---------|---------|
@@ -50,7 +50,7 @@ All outputs are synthetic but structured identically to a real civic workflow.
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|--------------|
@@ -62,7 +62,7 @@ All outputs are synthetic but structured identically to a real civic workflow.
 
 ---
 
-## 🧭 Next Steps
+## Next Steps
 
 - Integrate with real public records data (via city OnBase or 311 system).
 - Fine-tune with staff-reviewed examples to improve model precision.
@@ -71,9 +71,9 @@ All outputs are synthetic but structured identically to a real civic workflow.
 
 ---
 
-## 💬 Contact
+## Contact
 
-**Cherukuru Swaapnika Chowdary**  
+**Swaapnika Chowdary Cherukuru**  
 Master of Science | Northeastern University  
 cherukuru.sw@northeastern.edu
 swaapnic@gmail.com
